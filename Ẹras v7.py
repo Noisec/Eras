@@ -39,7 +39,7 @@ print('  / __/______ ____   _  _/_  /')
 print(' / _// __/ _ `(_-<  | |/ // /  ')
 print('/___/_/  \_,_/___/  |___//_/  ')
 print('By Noiss')
-#print('vagy egy hetet szenvedtem vele szoval becsüld meg 😔')
+#print('vagy egy hetet szenvedtem vele szoval becsüld meg 😔, bárki is vagy')
 
 print()
 print("Me,as the creator of this script I don't take any responsibility for anything you do with this script.")
