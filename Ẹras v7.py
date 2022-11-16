@@ -1,3 +1,6 @@
+#if you steal it, you are gae
+
+
 import socket, threading, os, sys, random, ctypes, time
 os.system('title Ẹras v7')
 ctypes.windll.kernel32.SetConsoleTitleW('Ẹras v7')
