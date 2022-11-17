@@ -6,3 +6,4 @@ An highly customizable DOS tool with port scanner (source code included)
 
 
 ![alt text](https://cdn.discordapp.com/attachments/937053497545875536/1042504355967946792/image.png)
+(its only 840 becouse my upload speed is slow)
