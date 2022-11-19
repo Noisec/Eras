@@ -1253,10 +1253,11 @@ while True:
 
 
      
-     id+=1
+     
     
 
      print("││ ID:%s  │  Sent %sMB to %s port:%s"%(str((id)).zfill(4),c,ipp,open))
+     id+=1
      if id%100==0 or id>100 and id%1000==0:
          nx=len(("││ ID:%s  │  Sent %sMB to %s port:%s"%(str((id)).zfill(4),c,ipp,open)))
          print("―"*nx)
