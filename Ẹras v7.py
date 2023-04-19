@@ -1,5 +1,3 @@
-#if you steal it, you are gae
-
 
 import socket, threading, os, sys, random, ctypes, time
 
