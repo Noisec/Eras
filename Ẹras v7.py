@@ -2,8 +2,7 @@
 
 
 import socket, threading, os, sys, random, ctypes, time
-os.system('title Ẹras v7')
-ctypes.windll.kernel32.SetConsoleTitleW('Ẹras v7')
+
 delay=20
 psc=5000
 ux=3
@@ -18,6 +17,8 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 if os.name=='nt':
     os.system('color b')
+    os.system('title Ẹras v7')
+    ctypes.windll.kernel32.SetConsoleTitleW('Ẹras v7')
 else:
     os.system('setterm -background white -foreground white -store')
 
